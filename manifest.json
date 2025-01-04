@@ -1,0 +1,10 @@
+{
+  "domain": "eta-ha",
+  "name": "ETA SOAP readout",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://github.com/berndlin/eta-ha",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "0.0.1"
+}
